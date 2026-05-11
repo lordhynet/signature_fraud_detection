@@ -178,4 +178,4 @@ See also: [VisGuard AI](https://github.com/yourusername/visguard-ai) — an AI-p
 **Author:** Surakat Gideon  
 MSc Data Science & AI — University of East London  
 Software Engineer — Fintech & Digital Banking  
-[Medium](https://medium.com/@yourusername) · [LinkedIn](https://linkedin.com/in/yourusername)
+[Medium](https://medium.com/@surakatg) · [LinkedIn](https://linkedin.com/in/gideon-surakat)
