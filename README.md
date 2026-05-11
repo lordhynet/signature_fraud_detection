@@ -173,7 +173,7 @@ Python · TensorFlow/Keras · scikit-learn · NumPy · Pandas · Matplotlib · S
 
 This project is part of a broader exploration of AI-powered fraud detection in financial services — combining computer vision research with practical banking and compliance applications.
 
-See also: [VisGuard AI](https://github.com/yourusername/visguard-ai) — an AI-powered visual fraud detection system for banking documents, building on the methods explored here.
+See also: [VisGuard AI](https://github.com/lordhynet/visguard-ai) — an AI-powered visual fraud detection system for banking documents, building on the methods explored here.
 
 **Author:** Surakat Gideon  
 MSc Data Science & AI — University of East London  
